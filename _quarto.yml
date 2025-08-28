@@ -7,8 +7,8 @@ project:
 website:
   page-navigation: true
   title: "Educational resource template for Python"
-  site-url: "https://github.com/InseeFrLab/AIML4OS-template-quarto-python"
-  repo-url: "https://github.com/InseeFrLab/AIML4OS-template-quarto-python"
+  site-url: "https://github.com/oliviermeslin/test_template-quarto-python"
+  repo-url: "https://github.com/oliviermeslin/test_template-quarto-python"
   repo-actions: [edit, source, issue]
   sidebar:
     search: true
