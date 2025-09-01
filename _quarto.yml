@@ -7,7 +7,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Template for training resources in Python"
+  title: "Template for training resources in Python (OM version)"
   site-url: "https://github.com/oliviermeslin/test_template-quarto-python.git"
   repo-url: "https://github.com/oliviermeslin/test_template-quarto-python.git"
   repo-actions: [edit, source, issue]
